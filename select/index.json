@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Archer",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2026-03-18T19:37:50.695105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dream of the Archer",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/01_Dream_of_the_Archer_Heart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dream Of The Archer (Live At The Backstage, Seattle, WA./1994)",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/02_Dream_Of_The_Archer_(Live_At_The_Backstage,_Seattle,_WA._1994)_Heart.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Archer",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_The_Archer_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dream of the Archer",
+      "artist": "Heart",
+      "has_synced": false,
+      "path": "select/04_Dream_of_the_Archer_Heart.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dream Of The Archer",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/05_Dream_Of_The_Archer_Heart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Archer",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_The_Archer_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Archer - Live From Paris",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_The_Archer_-_Live_From_Paris_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Archer (Live From Paris)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_The_Archer_(Live_From_Paris)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Archer",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_The_Archer_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Archer",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_The_Archer_Taylor_Swift.txt"
+    }
+  ]
+}
